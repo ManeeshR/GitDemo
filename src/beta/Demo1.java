@@ -14,7 +14,9 @@ public class Demo1 {
 		//if(1>2)
 			log.error("here we hav some errors");
 		log.fatal("Fatal Fatal");
-		
+		log.fatal("Fatal Fatal");
+		log.fatal("Fatal Fatal");
+		log.fatal("Fatal Fatal");
 	
 		
 	}
